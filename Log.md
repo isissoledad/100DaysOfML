@@ -5,3 +5,10 @@
 **Today's Progress** : I decided to start studying Machine Learning tomorrow. For today I searched for a course and chose Frank Kane's https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/learn/v4/overview
 
 **Thoughts** : Good luck for me!
+
+## Day 1 : July 27 , 2018
+
+**Today's Progress** : I prepared my environment and finished section 1 of the course.
+Finally I looked at the Pandas library with more attention.
+
+**Thoughts** : Taking the course in English will not be easy.
