@@ -12,3 +12,9 @@
 Finally I looked at the Pandas library with more attention.
 
 **Thoughts** : Taking the course in English will not be easy.
+
+## Day 2 : July 28 , 2018
+
+**Today's Progress** : Statistic day! Today was a day to remember some concepts of statistics.
+
+**Thoughts** : It was very difficult to stop and study on a Saturday.
