@@ -18,3 +18,9 @@ Finally I looked at the Pandas library with more attention.
 **Today's Progress** : Statistic day! Today was a day to remember some concepts of statistics.
 
 **Thoughts** : It was very difficult to stop and study on a Saturday.
+
+## Day 3 : July 30 , 2018
+
+**Today's Progress** : I continue advancing in the course but without any novelty yet, just reminiscing basic concepts of probability and statistics.
+
+**Thoughts** : Too much laziness today, I almost skipped the day.
